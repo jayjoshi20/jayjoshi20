@@ -169,7 +169,7 @@ Status   : Building things that think 🧠
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-0d0d1a?style=for-the-badge&logo=gmail&logoColor=EA4335&label=Get%20In%20Touch)](mailto:jayjoshi3040@gmail.com)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d0d1a?style=for-the-badge&logo=safari&logoColor=C9A84C&label=jayjoshi.dev)](https://jayjoshi20.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d0d1a?style=for-the-badge&logo=safari&logoColor=C9A84C&label=jayjoshi.dev)](https://jayjoshi20.github.io/Portfolio/)
 &nbsp;
 [![Kaggle](https://img.shields.io/badge/Kaggle-0d0d1a?style=for-the-badge&logo=kaggle&logoColor=20BEFF&label=Competitions)](https://kaggle.com/jayjoshi)
 
