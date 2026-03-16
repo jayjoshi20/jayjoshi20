@@ -4,12 +4,12 @@
 <!--              ANTIGRAVITY FLOATING HEADER               -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:C9A84C&height=200&section=header&text=Jay%20Joshi&fontSize=60&fontColor=C9A84C&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Cloud%20Architect&descAlignY=58&descSize=18&descColor=e8d08a&animation=fadeIn&fontFamily=Georgia" width="100%" alt="Header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a0a0a,50:1a1a2e,100:C9A84C&amp;height=200&amp;section=header&amp;text=Jay%20Joshi&amp;fontSize=60&amp;fontColor=C9A84C&amp;fontAlignY=38&amp;desc=AI%20and%20ML%20Engineer%20-%20Cloud%20Architect&amp;descAlignY=58&amp;descSize=18&amp;descColor=e8d08a&amp;animation=fadeIn&amp;fontFamily=Georgia" width="100%" alt="Header banner" />
 
 <br/>
 
 <!-- Antigravity Typing SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&weight=600&size=28&pause=1400&color=C9A84C&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Building+Intelligent+Systems+✦;Generative+AI+%26+Computer+Vision+✦;Python+%7C+TensorFlow+%7C+AWS+%7C+Cloud+✦;Toronto%2C+Canada+%7C+Open+to+Collaborate+✦" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&amp;weight=600&amp;size=28&amp;pause=1400&amp;color=C9A84C&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;width=700&amp;height=50&amp;lines=Building+Intelligent+Systems+✦;Generative+AI+%26+Computer+Vision+✦;Python+%7C+TensorFlow+%7C+AWS+%7C+Cloud+✦;Toronto%2C+Canada+%7C+Open+to+Collaborate+✦" alt="Typing Animation" />
 
 <br/><br/>
 
@@ -197,4 +197,4 @@ Status   : Building things that think 🧠
 <!--               FOOTER WAVE                              -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A84C,50:1a1a2e,100:0a0a0a&height=120&section=footer" width="100%" alt="Footer banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:C9A84C,50:1a1a2e,100:0a0a0a&amp;height=120&amp;section=footer" width="100%" alt="Footer banner" />
